@@ -12,7 +12,7 @@ tableextension 50100 CustomerTableExt extends Customer
         field(50100; Pizza; Boolean)
         {
             Caption = 'Pizza';
-            DataClassification = ToBeClassified;
+            DataClassification = CustomerContent;
         }
     }
 }
