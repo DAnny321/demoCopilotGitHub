@@ -8,6 +8,18 @@ using Microsoft.Sales.Customer;
 
 pageextension 50100 CustomerListExt extends "Customer List"
 {
+    layout
+    {
+        addlast(Control1)
+        {
+            field(Pizza; Rec.Pizza)
+            {
+                ApplicationArea = All;
+                ToolTip = 'Specifies whether the customer likes pizza';
+            }
+        }
+    }
+
     trigger OnOpenPage();
     begin
         Message('App published: Hello world');
