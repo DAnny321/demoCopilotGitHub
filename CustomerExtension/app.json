@@ -1,0 +1,31 @@
+{
+  "id": "12345678-1234-1234-1234-123456789012",
+  "name": "CustomerExtension",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "Customer Table Extension",
+  "description": "Extension that adds PIPPO field to Customer table",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "features": [],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "11.0",
+  "target": "Cloud"
+}
