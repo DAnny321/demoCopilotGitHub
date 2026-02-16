@@ -11,4 +11,4 @@ Please read [this](https://github.com/microsoft/AL-Go/blob/main/Scenarios/Contri
 We do not accept Pull Requests on the template repository directly.7
 
 
-pizza
+pizza TEST
