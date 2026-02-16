@@ -1,0 +1,31 @@
+{
+  "id": "22345678-1234-1234-1234-123456789012",
+  "name": "VendorExtension",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "Vendor Table Extension",
+  "description": "Extension that adds amount2 field to Vendor table",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50150,
+      "to": 50199
+    }
+  ],
+  "features": [],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "11.0",
+  "target": "Cloud"
+}
