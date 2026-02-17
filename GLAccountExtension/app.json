@@ -1,0 +1,31 @@
+{
+  "id": "42345678-1234-1234-1234-123456789012",
+  "name": "GLAccountExtension",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "G/L Account Table Extension",
+  "description": "Extension that adds Disabilitato field to G/L Account table",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50300,
+      "to": 50349
+    }
+  ],
+  "features": [],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "11.0",
+  "target": "Cloud"
+}
